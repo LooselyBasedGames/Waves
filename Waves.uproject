@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.14",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
