@@ -65,4 +65,10 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Stasis Asset pack
+Content/Stasis_Pack/
+
+#Starter Content
+Content/StarterContent/
+
 .DS_Store
