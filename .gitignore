@@ -65,4 +65,19 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Stasis Asset pack
+Content/Stasis_Pack/
+
+#Starter Content
+Content/StarterContent/
+
+#Robot dudes
+Content/CrashTestRDummy/
+
+#Grenades
+Content/FuturisticGrenadePack/
+
+*.jpg
+*.png
+
 .DS_Store
